@@ -8,28 +8,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="" alt="apache" width="40" height="40"/>
-  <img src="" alt="bitbucket" width="40" height="40"/>
-  <img src="" alt="bootstrap" width="40" height="40"/>
-  <img src="" alt="css3" width="40" height="40"/>
-  <img src="" alt="express" width="40" height="40"/>
-  <img src="" alt="github" width="40" height="40"/>
-  <img src="" alt="gitlab" width="40" height="40"/>
-  <img src="" alt="html5" width="40" height="40"/>
-  <img src="" alt="illustrator" width="40" height="40"/>
-  <img src="" alt="jquery" width="40" height="40"/>
-  <img src="" alt="laravel" width="40" height="40"/>
-  <img src="" alt="mysql" width="40" height="40"/>
-  <img src="" alt="nginx" width="40" height="40"/>
-  <img src="" alt="nodejs" width="40" height="40"/>
-  <img src="" alt="photoshop" width="40" height="40"/>
-  <img src="" alt="php" width="40" height="40"/>
-  <img src="" alt="python" width="40" height="40"/>
-  <img src="" alt="react" width="40" height="40"/>
-  <img src="" alt="redis" width="40" height="40"/>
-  <img src="" alt="redux" width="40" height="40"/>
-  <img src="" alt="ssh" width="40" height="40"/>
-  <img src="" alt="wordpress" width="40" height="40"/>
-  <img src="" alt="yarn" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="css3" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="express" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="github" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="gitlab" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="html5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="illustrator" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="jquery" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="laravel" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="mysql" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="nginx" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="nodejs" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="photoshop" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="php" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="python" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="react" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="redis" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="redux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="ssh" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="wordpress" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/" alt="yarn" width="40" height="40"/>
 </p>
