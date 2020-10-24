@@ -3,7 +3,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://stackoverflow.com/users/5026766" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12198209" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5026766" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salman-latheef/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
