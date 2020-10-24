@@ -1,5 +1,4 @@
-### Hi 👋🏾 , I'm Salman 
-
+<h1>Hi 👋, I'm Salman</h1>
 <!--
 **salmanxoxo/salmanxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
